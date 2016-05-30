@@ -10,7 +10,7 @@ A simple Rails inspired PHP router class.
 * Usage of different HTTP Methods
 * REST / Resourceful routing
 * Reversed routing using named routes
-* Dynamic URL's: use URL segments as parameters.
+* Dynamic URLs: use URL segments as parameters.
 
 # Authors
 
